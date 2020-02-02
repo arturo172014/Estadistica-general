@@ -1,0 +1,2 @@
+# Estadistica-general
+Curso introductorio
